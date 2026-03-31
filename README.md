@@ -1,4 +1,4 @@
-<div align="center">
+1661<div align="center">
   <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg" alt="logo" />
 
   <p><em>OpenList is a resilient, long-term governance, community-driven fork of AList — built to defend open source against trust-based attacks.</em></p>
